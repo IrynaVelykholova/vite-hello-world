@@ -1,6 +1,6 @@
 <script></script>
 <template>
-    <h1>La mia prima app con Vite!</h1>
+    <h1>La mia prima app con Vite! <i class="fa-solid fa-dragon"></i></h1>
 </template>
 <style>
     h1 {
