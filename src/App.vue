@@ -1,6 +1,17 @@
 <script>
-export default{}
+import titolo from "./components/AppTitle.vue"
+import hero from "./components/AppHero.vue"
+export default{
+  components:{
+    titolo, 
+    hero,
+  }
+}
+
 </script>
 
-<template></template>
+<template>
+  <titolo></titolo>
+  <hero></hero>
+</template>
 <style></style>
